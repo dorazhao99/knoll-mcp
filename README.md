@@ -16,7 +16,7 @@ Next, clone into the repository and install the packages you need.
 > npm install package.json
 ```
 
-Create a ```.env``` file with your environment variables. You will need a variable ```UID``` that has your Knoll User ID.
+Update ```src/.env``` file with your environment variables. You will need a variable ```UID``` that has your Knoll User ID.
 
 Finally, build and launch your MCP server: 
 
